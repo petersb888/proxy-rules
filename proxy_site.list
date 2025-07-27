@@ -2,3 +2,4 @@
 # DOMAIN,exact.example.com：仅精确匹配 exact.example.com。
 # DOMAIN-KEYWORD,google：匹配任何包含 google 关键字的域名（如 google.com, google.cn），慎用，可能误伤。
 DOMAIN-SUFFIX,xn--5wvw93n.com
+DOMAIN-SUFFIX,ip138.com
